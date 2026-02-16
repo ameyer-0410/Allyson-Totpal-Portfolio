@@ -2,7 +2,8 @@
 ## Projects
 Project 1: Household Hardships and Mental Health Outcomes in the United States
 
-Project 2:
+Project 2: ICU Occupancy Change Prediction in California
+
 Project 3:
 Project 4:
 Project 5:
