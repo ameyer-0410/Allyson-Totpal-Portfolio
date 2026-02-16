@@ -1,6 +1,7 @@
 # Allyson Totpal Portfolio
 ## Projects
-Project 1:
+Project 1: Household Hardships and Mental Health Outcomes in the United States
+
 Project 2:
 Project 3:
 Project 4:
